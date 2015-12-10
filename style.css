@@ -1,0 +1,23 @@
+.profile {
+    position: absolute;
+    left: 9;
+    top: 9;
+    z-index: -1;
+    border-radius: 52%;
+    width:228px;
+    height:228px;
+}
+
+.github-octicon {
+  font: normal normal normal 16px/1 octicons;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.github-octicon { font-size: 230px; color: green; opacity: 0.9;}
