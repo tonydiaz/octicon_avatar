@@ -7,4 +7,4 @@ At the moment it is sized for you Github Avatar at 230px x 230px.
 In the style.css file you can change the color and opacity of the octicon.
 
 ## Warning
-According to the [GitHub Logo usage](https://github.com/logos), these logos are not to be used to integrate into your logo or change the colors.
+According to the [GitHub Logo usage](https://github.com/logos), these logos are not to be used to integrate into your logo or change the colors. So please use within the guidelines of the logo usage.
