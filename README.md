@@ -1,4 +1,5 @@
 # Octicon Avatar Overlay
+http://codepen.io/tonydiaz/pen/wMBZZW
 
 This simple project will retrieve an octicon. In this case it is the `Octocat` and it will overlay it on the image provided. I could be your Github avatar of another one.
 
